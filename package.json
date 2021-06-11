@@ -1,0 +1,23 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "Modulo node de introduccion.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gar1X64/intro-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "Pablo García",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gar1X64/intro-node-js/issues"
+  },
+  "homepage": "https://github.com/gar1X64/intro-node-js#readme"
+}
